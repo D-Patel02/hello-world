@@ -1,2 +1,5 @@
 # hello-world
-hello world 1st assignment on github
+
+hello guys!
+
+Darshan Patel here; I like networking and also i like programming
